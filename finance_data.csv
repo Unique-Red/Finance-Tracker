@@ -1,3 +1,56 @@
 date,amount,category,description
-01-09-24,100,Expense,Akara
 01-09-2024,3000.0,Expense,belt
+02-09-2024,123.0,Income,allowance
+02-09-2024,24.0,Expense,spending
+02-09-2024,3000.0,Income,allowance
+02-09-2024,999.0,Income,allowance
+02-09-2024,400.0,Income,allawee
+02-09-2024,1200.0,Income,allawee
+01-09-2024,1500.0,Expense,groceries
+02-09-2024,2000.0,Income,salary
+03-09-2024,250.0,Expense,transport
+03-09-2024,5000.0,Income,freelance work
+04-09-2024,100.0,Expense,snacks
+04-09-2024,300.0,Expense,utilities
+05-09-2024,1200.0,Income,bonus
+05-09-2024,45.0,Expense,coffee
+06-09-2024,3500.0,Income,part-time job
+06-09-2024,75.0,Expense,stationery
+07-09-2024,600.0,Income,allowance
+07-09-2024,250.0,Expense,books
+01-01-2024,2500.0,Income,salary
+15-01-2024,300.0,Expense,utilities
+28-01-2024,450.0,Expense,groceries
+01-02-2024,1200.0,Income,freelance work
+14-02-2024,200.0,Expense,valentine's gift
+20-02-2024,50.0,Expense,coffee
+01-03-2024,2500.0,Income,salary
+10-03-2024,150.0,Expense,transport
+21-03-2024,600.0,Expense,clothing
+01-04-2024,2500.0,Income,salary
+12-04-2024,350.0,Expense,subscription
+25-04-2024,1000.0,Income,freelance work
+01-05-2024,2500.0,Income,salary
+05-05-2024,200.0,Expense,entertainment
+18-05-2024,800.0,Expense,groceries
+01-06-2024,2500.0,Income,salary
+09-06-2024,400.0,Expense,dining out
+20-06-2024,1200.0,Income,bonus
+01-07-2024,2500.0,Income,salary
+14-07-2024,500.0,Expense,utilities
+22-07-2024,300.0,Expense,books
+01-08-2024,2500.0,Income,salary
+07-08-2024,600.0,Expense,medical
+19-08-2024,1000.0,Income,part-time work
+01-09-2024,2500.0,Income,salary
+15-09-2024,700.0,Expense,travel
+28-09-2024,50.0,Expense,coffee
+01-10-2024,2500.0,Income,salary
+12-10-2024,450.0,Expense,groceries
+21-10-2024,800.0,Income,freelance work
+01-11-2024,2500.0,Income,salary
+11-11-2024,200.0,Expense,subscription
+23-11-2024,300.0,Expense,clothing
+01-12-2024,2500.0,Income,salary
+05-12-2024,1500.0,Expense,gifts
+18-12-2024,900.0,Expense,holiday trip
